@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://images.hindustantimes.com/img/2021/09/27/1600x900/kohli-batting-getty-odi_1632233777921_1632757379528.jpg") top center;
+  background: url("https://cdn.mos.cms.futurecdn.net/uWjEogFLUTBc8mSvagdiuP.jpg") top center;
   background-size: cover;
 }
 #hero:before {
